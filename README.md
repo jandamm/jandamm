@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can find me at <a rel="me" href="https://hachyderm.io/@jandamm">Mastodon</a>.
+You can find me at <a rel="me" href="https://iosdev.space/@jandamm">Mastodon</a>.
 
 <!--
 **jandamm/jandamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
